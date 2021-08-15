@@ -15,7 +15,11 @@ In this tutorial we are teaching you how to work with discord.js v13 to start yo
 
 
 # Need Help?
-* You need help because something wasn't that clear to you then Consider joining or [Discord](https://discord.gg/6kcXztjYfg) someone will probably help you </br></br></br>
+* You need help because something wasn't that clear to you then Consider joining or [Discord](https://discord.gg/6kcXztjYfg) someone will probably help you </br></br>
+
+# Missing a tutorial here?
+* Create an [Issue](https://github.com/codingschool/discord.js/issues) and we will do our best to create the tutorial <br><br><br>
+
 
 # Contributors
 - [ahmad.js](https://github.com/ahmuudi)
