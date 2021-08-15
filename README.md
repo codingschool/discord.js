@@ -18,3 +18,4 @@ In this tutorial we are teaching you how to work with discord.js v13 to start yo
 * You need help because something wasn't that clear to you then Consider joining or [Discord](https://discord.gg/6kcXztjYfg) someone will probably help you </br></br></br>
 
 # Contributors
+- [ahmad.js](https://github.com/ahmuudi)
