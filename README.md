@@ -23,7 +23,7 @@
 
 > Your Config should look like this
 
-<img src="https://de.tixte.net/uploads/img.techo-bot.xyz/ksexmths79a.png" width="800" height="100" /></br></br>
+<img src="https://de.tixte.net/uploads/img.techo-bot.xyz/ksexmths79a.png" width="800" height="200" /></br></br>
 
 # Start the Bot
 > The start the bot you simply need to type in ```node .``` in your Terminal if Ecverthing works the Console log in the Ready event will appear in your terminal and thats it. In the next branch we are gonna start The Handler wich will be the biggest part of this Tutorial so make sure you read everthing :)
