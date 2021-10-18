@@ -3,7 +3,7 @@
 In this tutorial we are teaching you how to work with discord.js v13 to start your own Discord Bot
 
 # What do you need?
-* Here is a List of Programms you'll need in this tutorial click on the names to get to the Download pages
+* Here is a List of programs you'll need in this tutorial click on the names to get to the Download pages
   * [Visual Studio Code](https://code.visualstudio.com)
   * [node.js](https://nodejs.org)
     * v16.6.2 or above is needed</br></br>
